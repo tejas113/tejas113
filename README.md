@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalla Tejas</h1>
-<h3 align="center">Full Stack Web Developer | AWS Certified Solutions Architect Associate | Aspiring DevOps Engineer</h3>
+<h3 align="center">Full Stack Web Developer | AWS Certified Solutions Architect Associate | Aspiring DevOps Engineer | Red Hat Certified Linux System Administrator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas113&label=Profile%20views&color=0e75b6&style=flat" alt="tejas113" /> </p>
 
