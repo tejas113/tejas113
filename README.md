@@ -10,7 +10,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/tejas113/count.svg)
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FHrushiBorhade&psig=AOvVaw37EN_8eP7T6Q-8ZDtgnvf_&ust=1721074455729000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCozpKsp4cDFQAAAAAdAAAAABAx" />
+<img align="right" height="300" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FHrushiBorhade&psig=AOvVaw37EN_8eP7T6Q-8ZDtgnvf_&ust=1721074455729000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCozpKsp4cDFQAAAAAdAAAAABAx](https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU" />
 
 - 🔭 I’m currently working on **Expense App with Ansible**
 
