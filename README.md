@@ -9,6 +9,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/tejas113/count.svg)
 
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://iconscout.com/lottie-animation/software-engineer-9997295" />
+
 - 🔭 I’m currently working on **Expense App with Ansible**
 
 - 🌱 I’m currently learning **Devops,DSA,AWS**
