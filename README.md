@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas113" alt="tejas113" /></a> </p>
 
+<h1 >Visits: </h1>    
+
+![Visitor Count](https://profile-counter.glitch.me/kk4977/count.svg)
+
 - 🔭 I’m currently working on **Expense App with Ansible**
 
 - 🌱 I’m currently learning **Devops,DSA,AWS**
