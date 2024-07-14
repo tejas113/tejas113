@@ -10,7 +10,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/tejas113/count.svg)
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="300" width="500" src="[https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdsNnRuZDI3ZHloMTFod2Y3cDgyaDdra3R4MXRtd2Q1YTh4eDBqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRVM7bxdn7yEFWTN6i/giphy.gif)" />
 
 - 🔭 I’m currently working on **Expense App with Ansible**
 
