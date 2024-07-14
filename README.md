@@ -10,7 +10,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/tejas113/count.svg)
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://miro.medium.com/v2/resize:fit:1358/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" height="300" width="500" src="https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU" />
 
 - 🔭 I’m currently working on **Expense App with Ansible**
 
