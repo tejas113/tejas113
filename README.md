@@ -10,7 +10,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/tejas113/count.svg)
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdsNnRuZDI3ZHloMTFod2Y3cDgyaDdra3R4MXRtd2Q1YTh4eDBqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRVM7bxdn7yEFWTN6i/giphy.gif]" />
+<img align="right" height="300" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FHrushiBorhade&psig=AOvVaw37EN_8eP7T6Q-8ZDtgnvf_&ust=1721074455729000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCozpKsp4cDFQAAAAAdAAAAABAx" />
 
 - 🔭 I’m currently working on **Expense App with Ansible**
 
