@@ -10,7 +10,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/tejas113/count.svg)
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://iconscout.com/lottie-animation/software-engineer-9997295.gif" />
+<img align="right" height="300" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnp4ZXMxaHhvMzBycDl5bm14MGR4bW52a3YwMmVrbTBwdjZ6cmtlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Puf8if14kESNOdmG9/giphy.gif" />
 
 - 🔭 I’m currently working on **Expense App with Ansible**
 
