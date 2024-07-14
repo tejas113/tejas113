@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **tejaskalla12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bgQ6xtVebRW6A3tidURLDVg0hDznrl6_/view?usp=sharing](https://drive.google.com/file/d/1bgQ6xtVebRW6A3tidURLDVg0hDznrl6_/view?usp=sharing)
+- 📄 Here is my Resume ----->>> [https://drive.google.com/file/d/1bgQ6xtVebRW6A3tidURLDVg0hDznrl6_/view?usp=sharing](https://drive.google.com/file/d/1bgQ6xtVebRW6A3tidURLDVg0hDznrl6_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
