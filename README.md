@@ -7,7 +7,7 @@
 
 <h1 >Visits: </h1>    
 
-![Visitor Count](https://profile-counter.glitch.me/kk4977/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/tejas113/count.svg)
 
 - 🔭 I’m currently working on **Expense App with Ansible**
 
